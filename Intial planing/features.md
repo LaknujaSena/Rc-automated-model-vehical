@@ -7,22 +7,21 @@
 
 ## Chassy and wheels
 
-water proof / mud proof / 
-rhino chassy 
-Wheel system or belt system activates in slippery / muddy surface
+- water proof / mud proof / 
+- rhino chassy 
+- Wheel system or belt system activates in slippery / muddy surface
 
 ## Driving system
 
-Diff lock
-Two electrical motors fornt and back
-
-
+- Diff lock
+- Two electrical motors fornt and back
+  
 ## Electrical and Smart system
 
-Mapping / gps 
-image recognition 
-Ai integration into the system
-Controllable via a smart phone
-Raspberry pi brain
-gps generator with a small battery
+- Mapping / gps 
+- image recognition 
+- Ai integration into the system
+- Controllable via a smart phone
+- Raspberry pi brain
+- gps generator with a small battery
 
