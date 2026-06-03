@@ -1,9 +1,9 @@
 ## Suspension sysytem
 
-Fornt / Back double wishbone 
-Front / Back can be moved front and back depending on the terrain and the desired speed (can control one wheel independantly)
-Two identical front and back wheels / suspension system
-Rear wheels steering (optional)
+- Fornt / Back double wishbone 
+- Front / Back can be moved front and back depending on the terrain and the desired speed (can control one wheel independantly)
+- Two identical front and back wheels / suspension system
+- Rear wheels steering (optional)
 
 ## Chassy and wheels
 
