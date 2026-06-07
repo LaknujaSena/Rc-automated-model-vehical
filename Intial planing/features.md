@@ -24,4 +24,5 @@
 - Controllable via a smart phone
 - Raspberry pi brain
 - gps generator with a small battery
+- camera view
 
