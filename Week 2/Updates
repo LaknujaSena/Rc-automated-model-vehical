@@ -1,1 +1,10 @@
+Decided to beak the process into stages
 
+    - 1st stage
+        - design the basic mdoel and run the simluations
+        - choose the right components and update the design
+
+    - 2nd stage
+  	    - build the rc model as a remotetely controllable car with basic functions
+        - include the chain system and test
+        - make it functional with basic movement and climbing with the help of new suspension
